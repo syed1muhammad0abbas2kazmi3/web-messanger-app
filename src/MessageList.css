@@ -1,0 +1,20 @@
+.message-list {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .message-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .message-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .message-list li {
+    margin-bottom: 10px;
+  }
+  
