@@ -5,6 +5,7 @@ import MessageInput from './MessageInput';
 
 function App() {
   return (
+    // app.js
     <div className="App">
       <MessageList />
       <MessageInput />
